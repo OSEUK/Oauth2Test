@@ -1,1 +1,1 @@
-Spring Oauth2 + JWT test repository
+Spring Security + Oauth2 + JWT test repository
